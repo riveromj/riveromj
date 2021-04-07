@@ -1,6 +1,6 @@
-### Hi, I'm Marigen 👋 👩‍💻
+### Hi, I'm Marigen 👋 
 
-<h3>&nbsp;About Me </h3>
+<h3> 👩‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; I study Computer Engineering at the Andres Bello Catholic University of Venezuela
 - 💥 &nbsp; Study full stack developer bootcamp at 4Geeks Academy in Spain
