@@ -1,4 +1,5 @@
-### Hi, I'm Marigen 👋 
+### Hi, I'm Marigen  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+👋 
 
 <h3> 👩‍💻 &nbsp;About Me </h3>
 
