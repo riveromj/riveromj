@@ -1,7 +1,4 @@
-### Hi I'm Marigen 👋 👩‍💻
-
-<!--
-**riveromj/riveromj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Marigen 👋 👩‍💻
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -27,6 +24,11 @@
  
 
 <br/>
+
+<!--
+**riveromj/riveromj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 - 📚 I’m currently learning  frontend web development using Angula.
