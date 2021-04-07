@@ -33,7 +33,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/riveromj/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marigen%20Rivero%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/riveromj/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marigen%20Rivero%20Mirabal-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:marigen@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marigen@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
