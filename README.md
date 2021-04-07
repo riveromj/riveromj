@@ -1,12 +1,12 @@
-### Hi, I'm Marigen  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-👋 
+### Hi, I'm Marigen 👩‍💻 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+ 
 
-<h3> 👩‍💻 &nbsp;About Me </h3>
+<h3> 💬 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; I study Computer Engineering at the Andres Bello Catholic University of Venezuela
 - 💥 &nbsp; Study full stack developer bootcamp at 4Geeks Academy in Spain
 - 👀 &nbsp; Exploring new technologies.
-- 💻 &nbsp; Learning Angular.
+- 📚 &nbsp; Learning Angular.
 - 🤝 &nbsp; I like team work
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -31,7 +31,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🗣️ &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/riveromj/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marigen%20Rivero%20Mirabal-blue?style=flat-square&logo=linkedin"></a>
@@ -43,18 +43,4 @@
 <!--
 **riveromj/riveromj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-
-Here are some ideas to get you started:
-- 📚 I’m currently learning  frontend web development using Angula.
-- 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) [Gmail](mailto:hazemkwita123@gmail.com)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
