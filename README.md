@@ -6,7 +6,7 @@
 - 🎓 &nbsp; I am Software Engineering at the Andres Bello Catholic University of Venezuela
 - 💥 &nbsp; Study full stack developer bootcamp at 4Geeks Academy in Spain
 - 👀 &nbsp; Exploring new technologies.
-- 📚 &nbsp; Learning Angular.
+- 📚 &nbsp; Learning Angular and Nodejs.
 - 🤝 &nbsp; I like team work
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
